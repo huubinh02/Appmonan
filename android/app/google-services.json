@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474525963374",
+    "project_id": "monngonapp-6240d",
+    "storage_bucket": "monngonapp-6240d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474525963374:android:c826de5c42bc59072fc27f",
+        "android_client_info": {   
+          "package_name": "com.appmonngon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT2x6F65--Dtjc7S4M-_p10Ma8Htpzij8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
